@@ -14,7 +14,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-          Top Luxury Property <code>pages/index.js</code>
+          <h2>Top Luxury Property</h2> <code>pages/index.js</code>
         </p>
 
      <p className="description">
