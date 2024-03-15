@@ -15,6 +15,12 @@ export default function Home() {
         <p className="description">
           <h2>Top Luxury Property</h2> <code>pages/index.js</code>
         </p>
+     <p className="description">
+          <h2>Top Luxury Property</h2> <code>pages/index.js</code>
+        </p>
+     <p className="description">
+          <h2>Top Luxury Property</h2> <code>pages/index.js</code>
+        </p>
 
       </main>
 
