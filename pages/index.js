@@ -16,6 +16,10 @@ export default function Home() {
         <p className="description">
           Top Luxury Property <code>pages/index.js</code>
         </p>
+
+     <p className="description">
+          Dubai’s Upcoming Property Show 2024
+        </p>
       </main>
 
       <Footer />
