@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>Top Luxury Property - Dubai</title>
-    <<meta name="google-site-verification" content="c0HXgOxwQqyryYBeb3PSFShMYlUtm152EvhvsgKLWsk" />
+        <<meta name="google-site-verification" content="c0HXgOxwQqyryYBeb3PSFShMYlUtm152EvhvsgKLWsk" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
