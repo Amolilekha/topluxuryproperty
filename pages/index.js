@@ -17,16 +17,6 @@ export default function Home() {
           <h2>Top Luxury Property</h2> <code>pages/index.js</code>
         </p>
 
-     <p className="description">
-          Dubai Upcoming Property Show 2024
-        </p>
-
-    <p className="description">
-          Dubai Upcoming Property Show 2024
-        </p>
-    <p className="description">
-          Dubai Upcoming Property Show 2024
-        </p>
       </main>
 
       <Footer />
