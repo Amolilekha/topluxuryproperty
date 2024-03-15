@@ -18,7 +18,7 @@ export default function Home() {
         </p>
 
      <p className="description">
-          Dubai’s Upcoming Property Show 2024
+          Dubai Upcoming Property Show 2024
         </p>
       </main>
 
