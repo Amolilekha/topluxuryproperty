@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Top Luxury Property - Dubai</title>
+        <title>Top Luxury Property - Dubai 2024</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
