@@ -20,6 +20,13 @@ export default function Home() {
      <p className="description">
           Dubai Upcoming Property Show 2024
         </p>
+
+    <p className="description">
+          Dubai Upcoming Property Show 2024
+        </p>
+    <p className="description">
+          Dubai Upcoming Property Show 2024
+        </p>
       </main>
 
       <Footer />
